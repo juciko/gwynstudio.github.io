@@ -1,2 +1,3 @@
 # gwynstudio.github.io
-code untuk webside gwyn.studio
+code untuk webside gwynstudio.github.io
+
